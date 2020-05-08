@@ -1,4 +1,4 @@
-# EE522 - Matrix Theory August, 2018
+# EE522 - Matrix Theory (Aug - Nov, 2018)
 Codes for assignments done as part of EE522-Matrix Theory
 
 ## Problems
