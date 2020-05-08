@@ -12,7 +12,7 @@ Codes for assignments done as part of EE522-Matrix Theory
    
 -  Implement Gauss-Jordan algorithm. Reduce a matrix to Echelon and RREF using Gauss-Jordan algorithm.
 
--  Write a program that finds determinant of a matrix 
+-  Write a program that finds determinant of a matrix:
    - using a recursive routine and 
    - reducing the matrix to upper triangular matrix using Gauss-Jordan elimination.
   
