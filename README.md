@@ -1,7 +1,7 @@
 # EE522 - Matrix Theory August, 2018
 Codes for assignments done as part of EE522-Matrix Theory
 
-##Problems
+## Problems
 
 -  Matrix multiplication using approaches mentioned below:
    - dot product of rows and columns (the most commonly used approach)
