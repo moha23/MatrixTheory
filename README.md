@@ -1,5 +1,5 @@
 # EE522 - Matrix Theory (Aug - Nov, 2018)
-Codes for some assignments done as part of EE522-Matrix Theory
+Code for some assignments done as part of EE522-Matrix Theory
 
 ## Problems
 
