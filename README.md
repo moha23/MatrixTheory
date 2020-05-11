@@ -5,8 +5,8 @@ Code for some assignments done as part of EE522-Matrix Theory
 
 -  Matrix multiplication using approaches mentioned below:
    - dot product of rows and columns (the most commonly used approach) [[MATLAB]](https://github.com/moha23/MatrixTheory/blob/master/MATLAB%20versions/matrixMultRowCol.m) [[Python]](https://github.com/moha23/MatrixTheory/blob/master/Python%20Versions/matrixMultRowCol.py)
-   - matrix-vector multiplication (this uses dot product internally) (column way)
-   - vector-matrix multiplication (this also uses dot product internally) (row way)
+   - matrix-vector multiplication (column way)[[MATLAB]](https://github.com/moha23/MatrixTheory/blob/master/MATLAB%20versions/matrix_vector_mult.m)
+   - vector-matrix multiplication (row way)
    - cross product of columns and rows (column-row way)
    - block matrix multiplication (recursive)
    
