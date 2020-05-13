@@ -8,7 +8,7 @@ Code for some assignments done as part of EE522-Matrix Theory
    - matrix-vector multiplication (column way)[[MATLAB]](https://github.com/moha23/MatrixTheory/blob/master/MATLAB%20versions/matrix_vector_mult.m)
    - vector-matrix multiplication (row way) [[MATLAB]](https://github.com/moha23/MatrixTheory/blob/master/MATLAB%20versions/vector_matrix_mult.m)
    - cross product of columns and rows (column-row way) [[MATLAB]](https://github.com/moha23/MatrixTheory/blob/master/MATLAB%20versions/matrix_mult_crossprod.m)
-   - block matrix multiplication (recursive)
+   - block matrix multiplication
    
    ###### Note: These are different ways of looking at matrix multiplication, and all of them should give the same answer. For a refresher, refer to [this video lecture](https://www.youtube.com/watch?v=FX4C-JpTFgY&list=PL49CF3715CB9EF31D&index=4&t=0s) by Prof. Gilbert Strang.
    
